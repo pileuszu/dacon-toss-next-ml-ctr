@@ -115,6 +115,13 @@ dmypy.json
 *.hdf5
 *.feather
 
+# Archive files
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+
 # Model files
 *.model
 *.pt
